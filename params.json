@@ -1,0 +1,6 @@
+{
+  "name": "Sematic Job Recommendation Engine",
+  "tagline": "Now you don't need to hire people to help you hire people!",
+  "body": "### Welcome\r\n\r\nGiven a bunch of resumes and a job description, we use various intelligent techniques recommend you who is the best for the job.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
