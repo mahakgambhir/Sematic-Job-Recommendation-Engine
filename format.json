@@ -8,11 +8,9 @@
 		"education": "education",
 		"achievements": "achievements",
 		"projects": "projects",
-		"interests": "interests",
+		"interest": "interest",
 		"skills": "skills",
-		"personal": "personal",
-		"research": "research",
-		"courses":"courses"
+		"personal": "personal"
 		},
 	"features": {
 
